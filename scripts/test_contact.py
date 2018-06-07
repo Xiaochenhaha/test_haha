@@ -14,4 +14,4 @@ class TestContact:
 
     def test_login2(self):
         print("123")
-        assert 1
+        assert 0
